@@ -54,9 +54,9 @@ Method Overriding & Overloading
 OOP in Real-world Scenarios
 
 # How to Run
-Compile the Java Program:
+## Compile the Java Program:
 javac BankSimulation.java
-Run the Program:
+## Run the Program:
 java BankSimulation
 
 # Example Usage
