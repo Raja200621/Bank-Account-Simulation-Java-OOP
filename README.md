@@ -19,7 +19,7 @@ Simulate basic bank operations using Java Object-Oriented Programming principles
 -Terminal / Command Prompt
 
 # Features
-Account Class
+## Account Class
 
 deposit() and withdraw() methods
 
@@ -27,18 +27,18 @@ Maintains account balance
 
 Records transaction history
 
-SavingsAccount Class (Inheritance)
+## SavingsAccount Class (Inheritance)
 
 Extends Account
 
 Adds addInterest() method to apply interest rate
 
-Encapsulation
+## Encapsulation
 
 Private balance & transaction history
 
 Access through public methods
-Transaction History
+## Transaction History
 
 Stores all deposit/withdraw/interest operations
 
