@@ -53,3 +53,23 @@ Method Overriding & Overloading
 
 OOP in Real-world Scenarios
 
+# How to Run
+Compile the Java Program:
+javac BankSimulation.java
+Run the Program:
+java BankSimulation
+
+# Example Usage
+Enter account holder name: Raja Das
+Enter initial balance: ₹5000
+
+--- Bank Menu ---
+1. Deposit
+2. Withdraw
+3. Check Balance
+4. Transaction History
+5. Add Interest
+6. Exit
+
+
+
